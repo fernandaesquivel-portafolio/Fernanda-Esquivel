@@ -6,10 +6,8 @@
 
 **Multidisciplinary Experience:** Fraud investigation, 3D dental treatments designer, KPI-focused supervisory roles & dancer.
 
-**Visualization Tools:** Power BI, Tableau, Google Data Studio, R Studio, Excel.
+**- Visualization Tools:** Power BI, Tableau, Google Data Studio, R Studio, Excel.
+**- Management & Quality:** Root Cause Analysis, Internal Audit, KPI Monitoring.
+**- Languages:** English (B2) | Spanish (Native).
 
-**Management & Quality:** Root Cause Analysis, Internal Audit, KPI Monitoring.
-
-**Languages:** English (B2) | Spanish (Native).
-
-**Let's connect!** [ https://www.linkedin.com/in/fernanda-esquivel-castillo/ ] 
+**Let's connect!** [https://www.linkedin.com/in/fernanda-esquivel-castillo/] 
